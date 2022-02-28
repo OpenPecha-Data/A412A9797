@@ -1,0 +1,19 @@
+segment_sources:
+  P8E782889:
+    type: origin_type
+    relation: translation
+    language: en
+  P40F39034:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  1920c8a45524467283e8913b911b05ab:
+    P8E782889: aff8851defd449d1a98e8bf1ae62f5a7
+    P40F39034: 5d40e2318289476d92cdcddb1ae99321
+  51755e04400e4952a81543492faeb829:
+    P8E782889: 3a30ca5fb3204a73be4babe748d069d4
+    P40F39034: 0a01cf533d7644a19e2ba2d853c477f9
+  86bab22ab5304c4c931ce7b2781693c0:
+    P8E782889: abad357bc52743ce9d5ca787ee6f1b1a
+    P40F39034: cdd48cc8e2984f1c8cdd845847f84853

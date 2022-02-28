@@ -1,0 +1,16 @@
+segment_sources:
+  P8E782889:
+    type: origin_type
+    relation: translation
+    language: en
+  P40F39034:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  91f8b94f82a848799ce4ccc803faa97a:
+    P8E782889: ef7714f3eda44456969bc6eb25c37413
+    P40F39034: e15fd9de81bd42769e41a73b3fd8484f
+  375b6006882f42599d83125db620cd8a:
+    P8E782889: 7c07517110194fae8c03827b279dca5d
+    P40F39034: a24701e5605a4a99a983ace0a3504415
